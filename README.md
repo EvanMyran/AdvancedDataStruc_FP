@@ -1,2 +1,12 @@
 # AdvancedDataStruc_FP
-A final project for cs327 Advanced Data Structures where a partner and I created a program called the shortest unique substring to iterate through text using a suffix array.
+**Shortest Unique Substring (sus)**
+
+A program to read in a single text file and return the
+shortest substring in the text file that only contains
+one instance of the string in the file.
+
+Authors- Evan Myran, Andrew Martens
+Dependcies- algs4 library
+
+Compilation- javac-algs4 Sus.java
+Run command- java-algs4 Sus example.txt
